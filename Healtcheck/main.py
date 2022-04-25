@@ -19,7 +19,7 @@ for file in files:
                 pid = PID(line)
             if CPU(line) != "NOT FOUND":
                 joinstr.append(CPU(line))
-    ### PRINT TABLE ###     
+    ### PRINT TABLE ###    
     x.add_row([i,hostname,pid,JoinCPU(joinstr)])
     i+=1
 

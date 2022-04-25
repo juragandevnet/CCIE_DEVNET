@@ -9,4 +9,4 @@ Supported Hardware:
 Supported Features:
 - Hostname
 - Product ID
-- CPU
+- CPU - Healtcheck for 1 Min and 5 Mins
